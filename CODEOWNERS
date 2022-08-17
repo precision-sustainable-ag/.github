@@ -1,7 +1,7 @@
 # devops
-precision-sustainable-ag/dst-selector/helm/* @mikahpinegar
-precision-sustainable-ag/dst-selector/*.yaml @mikahpinegar 
-precision-sustainable-ag/dst-selector/Dockerfile @mikahpinegar
+/helm/* @mikahpinegar
+*.yaml @mikahpinegar 
+*Dockerfile @mikahpinegar
 
 # dst-selector
 precision-sustainable-ag/dst-selector/* @mikahpinegar
