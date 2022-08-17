@@ -1,0 +1,10 @@
+# devops
+/helm/* @mikahpinegar
+*.yaml @mikahpinegar 
+*Dockerfile @mikahpinegar
+
+# dst-selector
+precision-sustainable-ag/dst-selector/* @mikahpinegar
+
+# tech-dashboard
+precision-sustainable-ag/dst-selector/* @brianwdavis @mikahpinegar 
