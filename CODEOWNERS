@@ -1,2 +1,5 @@
 # dst-selector
 precision-sustainable-ag/dst-selector/* @mikahpinegar
+/helm/* @drewlearns
+*.yaml @drewlearns 
+*Dockerfile @drewlearns
