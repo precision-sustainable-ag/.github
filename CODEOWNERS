@@ -4,7 +4,7 @@
 *Dockerfile @mikahpinegar
 
 # dst-selector
-precision-sustainable-ag/dst-selector/* @mikahpinegar
+precision-sustainable-ag/dst-selector/* @mikahpinegar @drewlearns
 
 # tech-dashboard
 precision-sustainable-ag/dst-selector/* @brianwdavis @mikahpinegar 
