@@ -14,7 +14,7 @@ assignees: ''
 - What are the deliverables?
 - What is thier scope?
 
-## Stakeholders / Contacts **
+## Stakeholders / Contacts ##
 - Who may need to be involved?
 
 ## Additional Information ##
