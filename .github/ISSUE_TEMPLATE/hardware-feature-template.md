@@ -2,7 +2,7 @@
 name: Hardware Feature Template
 about: This template is used for specifying new hardware features
 title: Hardware Feature
-labels: 'team: hardware'
+labels: enhancement
 assignees: ''
 
 ---
@@ -21,3 +21,8 @@ assignees: ''
 - Give a brief description of the feature.
 - List out any dependencies.
 - Explain acceptance criteria, if needed.
+
+## Sub Issues / Tasks ##
+- [ ] 
+- [ ] 
+- [ ]
