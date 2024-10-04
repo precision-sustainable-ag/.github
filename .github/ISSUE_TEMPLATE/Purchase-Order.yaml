@@ -12,7 +12,7 @@ body:
       value: |
         "Please fill out this form as accurately and completely as possible to ensure a fast and smooth process getting your order processed."
   - type: dropdown
-    id: version
+    id: version2
     attributes:
       label: Version
       description: What version of our software are you running?
