@@ -1,24 +1,27 @@
 name: Purchase Order
 description: Request item(s) to be ordered
 title: "[PO]: "
-labels: ["Purchase"]
+labels: ["Purchasing"]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
 assignees:
-  - mtfunder
+  - kldriver
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
+        Please fill out this form as accurately and completely as possible to ensure a fast and smooth process getting your order processed.
+    - type: dropdown
+    id: PB
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Will this be tracked in PartsBox?
+      multiple: true
+      options:
+        - Yes
+        - No
+        - Im not sure
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
