@@ -10,7 +10,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please fill out this form as accurately and completely as possible to ensure a fast and smooth process getting your order processed.
+        "Please fill out this form as accurately and completely as possible to ensure a fast and smooth process getting your order processed."
   - type: dropdown
     id: PB
     attributes:
