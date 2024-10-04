@@ -11,18 +11,7 @@ body:
     attributes:
       value: |
         "Please fill out this form as accurately and completely as possible to ensure a fast and smooth process getting your order processed."
-  - type: dropdown
-    id: PB
-    attributes:
-      label: Will this be tracked in PartsBox?
-      multiple: true
-      options:
-        - "Yes" (Default)
-        - "No"
-        - "Im not sure"
-      default: 0
-    validations:
-      required: true
+
   - type: textarea
     id: what-happened
     attributes:
