@@ -3,7 +3,7 @@ description: Request item(s) to be ordered
 title: "[PO]: "
 labels: ["Purchase"]
 type: "Task"
-projects: ["PSA Planning"]
+projects: ["precision-sustainable-ag/5"]
 assignees:
   - mtfunder
 body:
