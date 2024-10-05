@@ -14,8 +14,7 @@ body:
   - type: dropdown
     id: PB
     attributes:
-      label: Version
-      description: Is this tracked in PartsBox?
+      label: Is this tracked in PartsBox?
       options:
         - "Yes"
         - "No"
