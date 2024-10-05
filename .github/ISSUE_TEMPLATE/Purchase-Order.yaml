@@ -16,8 +16,9 @@ body:
     attributes:
       label: Is this tracked in PartsBox?
       options:
-        - "Yes"
-        - "No"
+        - ''
+        - 'Yes'
+        - 'No'
         - "I'm not sure"
     validations:
       required: true
