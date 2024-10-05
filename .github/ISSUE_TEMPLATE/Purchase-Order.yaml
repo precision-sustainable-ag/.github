@@ -1,5 +1,5 @@
-name: Purchase Order (not ready to use)
-description: Request item(s) to be ordered
+name: Purchase Order
+description: [DO NOT USE YET] Request item(s) to be ordered
 title: "[PO]: "
 labels: ["Purchasing"]
 type: "Task"
