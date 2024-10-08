@@ -21,11 +21,10 @@ body:
     validations:
       required: true
   - type: input
-    id: prevalence
+    id: link
     attributes:
-      label: Bug prevalence
-      description: "How often do you or others encounter this bug?"
-      placeholder: "Example: Whenever I visit the personal account page (1-2 times a week)"
+      label: Link to Order
+      placeholder: "Link to PartsBox order or purchase list"
     validations:
       required: true
   - type: dropdown
