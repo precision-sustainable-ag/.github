@@ -4,7 +4,7 @@ title: "[PO]: "
 labels: [purchasing]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
-assignees: mtfunder,kldriver,alexrallen,marialauracangiano
+assignees: kldriver
 body:
   - type: markdown
     attributes:
@@ -15,7 +15,7 @@ body:
     attributes:
       label: Is this tracked in PartsBox?
       options:
-        - false
+        - 'false'
         - 'Yes'
         - 'No'
         - "I'm not sure"
