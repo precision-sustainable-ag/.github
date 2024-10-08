@@ -1,10 +1,10 @@
 name: Purchase Order
 description: DO NOT USE YET- Request item(s) to be ordered
 title: "[PO]: "
-labels: [Purchasing]
+labels: [purchasing]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
-assignees: mtfunder,kldriver,alexrallen
+assignees: mtfunder,kldriver,alexrallen,marialauracangiano
 body:
   - type: markdown
     attributes:
