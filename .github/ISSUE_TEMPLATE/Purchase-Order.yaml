@@ -20,13 +20,12 @@ body:
         - 'No'
     validations:
       required: true
-  - type: textarea
-    id: what-happened
+  - type: input
+    id: prevalence
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Bug prevalence
+      description: "How often do you or others encounter this bug?"
+      placeholder: "Example: Whenever I visit the personal account page (1-2 times a week)"
     validations:
       required: true
   - type: dropdown
