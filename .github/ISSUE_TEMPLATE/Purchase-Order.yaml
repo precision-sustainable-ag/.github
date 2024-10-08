@@ -15,10 +15,9 @@ body:
     attributes:
       label: Is this tracked in PartsBox?
       options:
-        - 
+        - "I'm not sure"
         - 'Yes'
         - 'No'
-        - "I'm not sure"
     validations:
       required: true
   - type: textarea
