@@ -18,7 +18,6 @@ body:
         - "I don't know"
         - 'Yes'
         - 'No'
-      default: 0
     validations:
       required: true
   - type: textarea
