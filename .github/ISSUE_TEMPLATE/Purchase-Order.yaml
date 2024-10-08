@@ -4,7 +4,8 @@ title: "[PO]: "
 labels: ["Purchasing"]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
-assignees: kldriver
+assignees: 
+    - mtfunder
 body:
   - type: markdown
     attributes:
