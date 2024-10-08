@@ -4,7 +4,7 @@ title: "[PO]: "
 labels: ["Purchasing"]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
-assignees: alexrallen
+assignees: screberg
 body:
   - type: markdown
     attributes:
