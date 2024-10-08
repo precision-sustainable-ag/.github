@@ -4,8 +4,7 @@ title: "[PO]: "
 labels: ["Purchasing"]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
-assignees: 
-  - mtfunder
+assignees: mtfunder,kldriver,alexrallen
 body:
   - type: markdown
     attributes:
