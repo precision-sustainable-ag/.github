@@ -1,7 +1,7 @@
 name: Purchase Order
 description: DO NOT USE YET- Request item(s) to be ordered!
 title: "[PO]: "
-labels: [purchasing]
+labels: ["Purchasing"]
 type: "Task"
 projects: ["precision-sustainable-ag/5"]
 assignees: mtfunder,kldriver
