@@ -30,31 +30,19 @@ body:
   - type: input
     id: cost
     attributes:
-      label: Estimated Price
+      label: Estimated Total Cost
       placeholder: "Ex: $1,250"
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: ifo
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Extra info
+      description: Please include any extra information we should know about this purchase. Do we need a quote? Is there a long lead time? Do CAD files or drawings need to be sent to the vendor?
       render: shell
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I read and filled out every part of this forum
           required: true
