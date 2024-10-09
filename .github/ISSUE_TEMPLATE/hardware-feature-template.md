@@ -21,8 +21,3 @@ assignees: ''
 - Give a brief description of the feature.
 - List out any dependencies.
 - Explain acceptance criteria, if needed.
-
-## Sub Issues / Tasks ##
-- [ ] 
-- [ ] 
-- [ ]
