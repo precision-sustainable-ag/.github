@@ -21,6 +21,13 @@ body:
     validations:
       required: true
   - type: input
+    id: project
+    attributes:
+      label: What project is this for?
+      placeholder: "PM3D, BenchBot, ect."
+    validations:
+      required: true
+  - type: input
     id: link
     attributes:
       label: Link to Order
