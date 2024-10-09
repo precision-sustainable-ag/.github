@@ -43,6 +43,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
+      label: Confirmation
       options:
         - label: I read and filled out every part of this forum
           required: true
