@@ -38,7 +38,7 @@ body:
     id: ifo
     attributes:
       label: Extra info
-      description: Please include any extra information we should know about this purchase. Do we need a quote? Is there a long lead time? Do CAD files or drawings need to be sent to the vendor?
+      placeholder: "Please include any extra information we should know about this purchase. Do we need a quote? Is there a long lead time? Do CAD files or drawings need to be sent to the vendor?"
       render: shell
   - type: checkboxes
     id: terms
