@@ -27,15 +27,11 @@ body:
       placeholder: "Link to PartsBox order or purchase list"
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: input
+    id: cost
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
+      label: Estimated Price
+      placeholder: "Ex: $1,250"
     validations:
       required: true
   - type: dropdown
