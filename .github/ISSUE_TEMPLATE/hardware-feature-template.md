@@ -11,8 +11,9 @@ assignees: ''
 - Explain why this feature is needed.
 
 ## What done looks like ##
-- What are the deliverables?
-- What is their scope?
+- All new parts added to PartsBox
+- Confluence page updated to reflect the design decisions.
+- 
 
 ## Stakeholders / Contacts ##
 - Who may need to be involved?
