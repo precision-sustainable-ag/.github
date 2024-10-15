@@ -21,6 +21,13 @@ body:
     validations:
       required: true
   - type: input
+    id: Approver
+    attributes:
+      label: Who is approving this purchase?
+      placeholder: "Your supervisor or project lead"
+    validations:
+      required: true
+  - type: input
     id: project
     attributes:
       label: What project is this for?
