@@ -1,3 +1,9 @@
+---
+name: Epic Template
+about: This template is used for creating new epics in PSA Planning
+
+---
+
 ## Rationale ##
 - We need to be section 508 compliant on all tools
 
