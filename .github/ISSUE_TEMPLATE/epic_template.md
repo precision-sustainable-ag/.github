@@ -5,10 +5,10 @@ about: This template is used for creating new epics in PSA Planning
 ---
 
 ## Rationale ##
-- We need to be section 508 compliant on all tools
+- Why is this epic needed?
 
 ## Owner ##
-- Who owns this issue?
+- Who owns this epic?
 
 ## Stakeholder Point of Contact ##
 - Who is the subject matter expert to contact for this feature?
@@ -21,4 +21,4 @@ about: This template is used for creating new epics in PSA Planning
 ## Issues ##
 - [ ] 
 - [ ] 
-- [ ]
+- [ ] 
