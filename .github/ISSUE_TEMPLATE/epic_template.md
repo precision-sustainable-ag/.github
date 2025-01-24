@@ -1,6 +1,6 @@
 ---
 name: Epic Template
-about: This template is used for creating new epics in PSA Planning
+about: This template is used for creating new epics in PSA Planning. Link all tasks as sub issues on epics.
 
 ---
 
